@@ -1,0 +1,16 @@
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.exe
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.deps.json
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.runtimeconfig.json
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.runtimeconfig.dev.json
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.dll
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\ref\EnemiesList.dll
+C:\Users\16157\workspace\enemies-list\csharp\bin\Debug\net5.0\EnemiesList.pdb
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.csprojAssemblyReference.cache
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.AssemblyInfoInputs.cache
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.AssemblyInfo.cs
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.csproj.CoreCompileInputs.cache
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.dll
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\ref\EnemiesList.dll
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.pdb
+C:\Users\16157\workspace\enemies-list\csharp\obj\Debug\net5.0\EnemiesList.genruntimeconfig.cache
